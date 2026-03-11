@@ -1,6 +1,6 @@
 # catalog
 
-A new Flutter project.
+made by Soloveva Yana for Mobile dev subject
 
 ## Getting Started
 
